@@ -1,37 +1,56 @@
 # ✨ Joolee Singh — Developer Portfolio
 
-**B.Tech ECE Student | Software Engineering Learner @ NavGurukul**
+**B.Tech ECE Student | Web Development Enthusiast**
 
-Welcome to my portfolio repository! This project showcases my learning journey, web development skills, and projects.
+A personal developer portfolio website showcasing my projects, technical skills, and interest in web development. Built using HTML, CSS, and JavaScript.
 
-## 🌐 Portfolio Links
+**HTML · CSS · JavaScript**
 
-- **GitHub Profile:** https://github.com/joolee26-bot
-- **LinkedIn:** Add your LinkedIn profile link here
-- **Live Portfolio:** Add your live website link here
+🌐 [Live Portfolio](https://lnkd.in/dX6CFHYd) · 💻 [GitHub Profile](https://github.com/joolee26-bot)
 
-## 💻 Skills & Technologies
+## 🔗 Project Links
 
-- HTML
-- CSS
+- **GitHub Repository:** https://github.com/joolee26-bot/portfolio
+- **Live Portfolio:** https://lnkd.in/dX6CFHYd
+
+## 🎯 Key Features
+
+- **Personal Introduction:** Introduction and background.
+- **Projects Showcase:** Displays my projects and practical work.
+- **Technical Skills:** Highlights my current technical skills.
+- **Responsive Design:** Designed for different screen sizes.
+- **Contact Section:** Provides a way to connect with me.
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| HTML5 | Website structure |
+| CSS3 | Styling and layout |
+| JavaScript | Interactivity and functionality |
+
+## 📁 Project Structure
+
+```text
+portfolio/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+## 📚 Currently Learning
+
 - JavaScript
-- Git & GitHub
-
-## 🚀 Projects
-
-Here are some projects I have worked on while learning web development and programming.
-
-## 🎯 Currently Learning
-
-- JavaScript
-- DOM Manipulation
+- Programming Fundamentals
 - Problem Solving
-- Interactive Web Development
+- Web Development
 
-## 📚 About Me
+## 🚀 Future Goal
 
-I am a B.Tech ECE student and a Software Engineering learner at NavGurukul. I enjoy learning programming, building projects, and improving my problem-solving skills.
+To become a Full Stack Web Developer by gradually learning frontend and backend technologies.
 
 ---
 
-**Thank you for visiting my repository!**
+*Built with creativity and continuous improvement.*
