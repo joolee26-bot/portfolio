@@ -6,7 +6,7 @@ A personal developer portfolio website showcasing my projects, technical skills,
 
 **HTML · CSS · JavaScript**
 
-🌐 [Live Portfolio](https://lnkd.in/dX6CFHYd) · 💻 [GitHub Profile](https://github.com/joolee26-bot)
+🌐 [Live Portfolio](https://lnkd.in/dX6CFHYd) · 💻 [GitHub Profile](https://github.com/joolee26-bot) · 💼 [LinkedIn](https://www.linkedin.com/in/joolee-singh-58a7b32a5/)
 
 ## 🔗 Project Links
 
